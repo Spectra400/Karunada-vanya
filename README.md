@@ -95,5 +95,4 @@ Each alert contains:
 # 👨‍💻 Developed By
 
 DHEERAJ K B
-4SF22CS059
 Sahyadri College of Engineering and Management.
